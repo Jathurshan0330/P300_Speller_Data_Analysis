@@ -1,0 +1,4 @@
+p300 occurs 300ms after visual cue
+latency of p300 is higher for patients than healthy persons
+0.8s per letter is the record for non invasive eeg
+p300 frequency range  delta (0.5-4 Hz) and theta (4-7 Hz) 
