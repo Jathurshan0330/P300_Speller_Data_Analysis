@@ -1,2 +1,2 @@
-# P300_Speller_Data_Analysis_BR41n.io
+# 1DCNN + RNN Hybrid Architecture for P300 Detection 
 
