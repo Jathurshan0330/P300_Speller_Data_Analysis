@@ -1,4 +1,4 @@
-# 1DCNN + RNN Hybrid Architecture for P300 Detection 
+# 1DCNN + RNN Hybrid Classifier for P300 Detection 
 
 ## Our analysis on P300 Speller data and proposed method to detect P300 potential as follows:
 
